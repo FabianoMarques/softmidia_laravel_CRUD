@@ -4,7 +4,7 @@
 
 <!-- 
 @php
-    // DEU CERTO MAS NÃO ESTOU USANDO...
+    // GET DA BUSCA - DEU CERTO MAS NÃO ESTOU USANDO...
     if(isset($_GET['btn_buscar'])){
         $id= $_GET['id'];
         if(!empty($id)){
